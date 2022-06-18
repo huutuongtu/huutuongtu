@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?huutuongtu)
+![](https://komarev.com/ghpvc/?username=huutuongtu&label=PROFILE+VIEWS)
 - 👋 Hi, I’m @huutuongtu
 - 🔭 I’m currently studying Computer Science at HUST
 - 📫 How to reach me huutu12312vn@gmail.com
