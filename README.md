@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @huutuongtu
-- 🔭 I’m currently studying Computer Science at HUST
+- 🔭 I graduated with a bachelor's degree from HUST, majoring in computer science
 - 📫 How to reach me huutu12312vn@gmail.com
-- 💬 Ask me about anything
+- 💬 I’m currently focusing on Speech Processing and Natural Language Processing
 - ⚡ Fun fact: Huh?
 
 
